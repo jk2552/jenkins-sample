@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 int main(){
-
-	printf("Welcome to the jenkins automation\n");
 	
+	printf("Hello world\n");
+	printf("Welcome to the jenkins automation\n");
+	printf("\n");
 	return 0;
 }
